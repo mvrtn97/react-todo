@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+
+body {
+    margin: 0;
+    font-family:monospace;
+}
+.header {
+    background-color: rgb(137, 213, 137);
+    color:white;
+    height: 80px;
+    font-size: 2em;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+
+
+.datePicker {
+    margin-right: 10px;
+}

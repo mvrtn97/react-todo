@@ -1,0 +1,17 @@
+.todoList {
+   
+  width: 40%;
+  margin: auto;
+  margin-top: 50px;
+ 
+}
+
+
+@media screen and (max-width: 481px) {
+  .todoList {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 15px;
+  }
+}
